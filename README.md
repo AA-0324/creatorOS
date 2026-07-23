@@ -1,6 +1,6 @@
 # CreatorOS
 Helps YouTube creators cleanly organize their videos, ideas, notes, titles, and everything in-between, in a nice and easy (and free!) to use CLI program.
 
-##Tech Stack
+## Tech Stack
 Language: Python 3.10+
 Planned modules: **json, os, platform, subprocess**
