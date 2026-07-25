@@ -3,4 +3,4 @@ Helps YouTube creators cleanly organize their videos, ideas, notes, titles, and 
 
 ## Tech Stack
  - Language: Python 3.10+
- - Planned modules: **json, os, platform, subprocess**
+ - Planned modules: storage.py, utils.py, **projects.py, main.py, maybe a storage.json**
