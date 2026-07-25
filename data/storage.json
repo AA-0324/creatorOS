@@ -1,0 +1,47 @@
+{
+  "projects": {
+    "1": {
+      "title": "Video1",
+      "status": "Idea",
+      "alternate_titles": [],
+      "assets": {
+        "Scripts": [],
+        "Edited Videos": [],
+        "Thumbnails": []
+      }
+    },
+    "2": {
+      "title": "Video2",
+      "status": "Scripted",
+      "alternate_titles": [],
+      "assets": {
+        "Scripts": [],
+        "Edited Videos": [],
+        "Thumbnails": []
+      }
+    },
+    "3": {
+      "title": "Video3",
+      "status": "Edited",
+      "alternate_titles": [
+        "Alternate Video3",
+        "Another Alternate Video3"
+      ],
+      "assets": {
+        "Scripts": [],
+        "Edited Videos": [],
+        "Thumbnails": [
+          {
+            "name": "thumb_draft.png",
+            "path": "/home/claude/uploaded/CreatorOS/sample_assets/thumb_draft.png"
+          },
+          {
+            "name": "thumb_v2.png",
+            "path": "/home/claude/uploaded/CreatorOS/sample_assets/thumb_v2.png"
+          }
+        ]
+      }
+    }
+  },
+  "next_id": 4
+}
