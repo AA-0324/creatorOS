@@ -1,6 +1,12 @@
 # CreatorOS
 A lightweight, distraction-free CLI meant to help YouTube creators manage their video production pipelines, asset libraries, and project states.
 
+
+
+https://github.com/user-attachments/assets/835aba31-d2bf-494f-8088-d4b2b0ba188b
+
+
+
 ## The Problem
 YouTubers have their ideas everywhere: scattered notes, thumbnail ideas in one software, scripts in another account, etc. CreatorOS solves this. Built entirely in Python, CreatorOS acts as a centralized dashboard that eliminates manual folder-diving and scattered notes. It works hand-in-hand with your OS to launch native applications and manage files right from the terminal.
 
