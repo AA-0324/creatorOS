@@ -28,12 +28,12 @@ As an aspiring content creator myself, I realized that the actual editing and fi
 * core/utils.py – The OS-bridge layer. Contains cross-platform helper functions to interact with the user's OS
 * data/storage.json – Acts as the application's database.
 
-## Getting Started
-In your terminal, type:
-
-1. git clone https://github.com/AA-0324/creatorOS.git
-2. cd CreatorOS
-3. python main.py
+## Running It
+   ```bash
+   git clone https://github.com/AA-0324/creatorOS.git
+   cd CreatorOS
+   python main.py
+  ```
 
 ## License
 See the LICENSE file for more details :)
