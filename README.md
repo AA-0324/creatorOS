@@ -34,6 +34,7 @@ As an aspiring content creator myself, I realized that the actual editing and fi
    cd CreatorOS
    python main.py
   ```
+Or just download the .zip from the official Release!
 
 ## License
 See the LICENSE file for more details :)
